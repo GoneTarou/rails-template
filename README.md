@@ -47,6 +47,10 @@ mise install
 bundle install
 ```
 
+```bash
+bundle update
+```
+
 ### 4. npm パッケージをインストール
 
 ```bash
