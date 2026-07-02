@@ -36,7 +36,7 @@ mise trust
 
 ### 2. Ruby と Node.js をインストール
 
-`.tool-versions` に記載されたバージョンをインストールします。
+`mise.toml` に記載されたバージョンをインストールします。
 
 ```bash
 mise install
