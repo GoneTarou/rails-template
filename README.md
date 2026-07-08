@@ -28,7 +28,7 @@ cd railsTemplate
 
 ## mise の設定を信頼
 
-このテンプレートは mise.toml を使用しています。
+このテンプレートは mise.toml を使用しています
 
 ```bash
 mise trust
